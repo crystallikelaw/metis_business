@@ -1,7 +1,3 @@
-*.csv
-*.dta
-*.zip
-*.tgz
-*.tsv
-*.db
-*.pkl
+# for metis videos, subtitles
+*.mp4
+*.srt
